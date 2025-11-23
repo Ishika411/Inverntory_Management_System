@@ -1,4 +1,4 @@
-nventory Management System — PostgreSQL | PL/pgSQL | SQL
+Inventory Management System — PostgreSQL | PL/pgSQL | SQL
 
 This project implements a fully structured and production-ready Inventory Management System built using PostgreSQL, focusing on database normalization, automation, and analytical querying. The system is designed to manage products, suppliers, purchases, and sales with real-time stock updates and robust data integrity.
 
